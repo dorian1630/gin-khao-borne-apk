@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Classe USB 7 = imprimante. Matche toutes les imprimantes thermiques
+         (Epson, Xprinter, HOIN, générique chinoise...) sans vendor ID spécifique.
+         La permission USB est accordée automatiquement au branchement. -->
+    <usb-device class="7" subclass="1" />
+</resources>
