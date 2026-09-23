@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
     // ════════════════════════════════════════════════════════════
     //  ⚙️ CONFIGURATION — Mets ici l'URL de ta borne
     // ════════════════════════════════════════════════════════════
-    private static final String BORNE_URL = "https://gin-khao-st-antoine.netlify.app/borne.html";
+    private static final String BORNE_URL = "https://gin-khao-la-capelette.netlify.app/borne.html";
 
     private WebView webView;
     private UsbEscPosPrinter printer;
